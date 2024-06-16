@@ -1,0 +1,3 @@
+About:
+
+An e-commerce company analyzed its operations in Brazil using data from 100,000 orders between 2016 and 2018 to improve sales, reduce costs, and enhance customer satisfaction. SQL queries were used to study customer demographics, order trends, payment methods, delivery times, and freight costs. The analysis identified peak periods, key markets, and areas for cost reduction and efficiency improvements. By focusing on targeted promotions in underperforming regions, reducing high freight costs, and optimizing delivery routes, the company can enhance sales, lower operational costs, and improve customer satisfaction and retention.
